@@ -1,2 +1,2 @@
 # FRUIT.VEGETABLERE.COGNITION
- FRUIT/VEGETABLE RECOGNITION IN FIELDS WITH DRONE TECHNOLOGY
+A project was developed to detect which fruits and vegetables are planted in fields and vineyards using drone technology and to record this information into a system. This project was worked on from start to finish, and the outcome was successfully achieved. While designing the fruit/vegetable detection system, our dataset was obtained from the Kaggle website. The YoloV8 model was adopted for recognition and detection. We used Python and PyTorch for training our dataset. Instead of labeling the images ourselves, a set from the Roboflow site was used. The project was carried out on Anaconda using Python code in the Jupyter Lab code editor.
